@@ -1,3 +1,6 @@
 ml_datasets/*
 .env
 *.pkl
+cleaned_data
+df_paths.csv
+lightning_logs
