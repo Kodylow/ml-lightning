@@ -1,0 +1,9 @@
+root - INFO - Splitting data into features and target
+root - INFO - Splitting data into train+validation and test sets
+root - INFO - Splitting train+validation set into separate training and validation sets
+root - INFO - Applying SMOTE to the training set
+root - INFO - Splitting data into features and target
+root - INFO - Splitting data into train+validation and test sets
+root - INFO - Splitting train+validation set into separate training and validation sets
+root - INFO - Applying SMOTE to the training set
+root - INFO - Data preparation completed
